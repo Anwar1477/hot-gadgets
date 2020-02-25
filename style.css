@@ -1,0 +1,12 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy-now{
+    background-image:linear-gradient(to bottom,grey 0%,black 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+}
